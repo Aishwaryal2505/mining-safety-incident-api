@@ -1,5 +1,7 @@
 \# Mining Safety Incident Tracker API
 
+!\[Mining Safety API Tests](https://github.com/Aishwaryal2505/mining-safety-incident-api/actions/workflows/tests.yml/badge.svg)
+
 
 
 A REST API built with FastAPI and PostgreSQL for logging and managing mining
